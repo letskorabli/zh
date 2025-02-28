@@ -21,10 +21,10 @@ Lesta Games**不提供**Lesta Game Center（以下简称为LGC）中文语言，
 2. 根据图1、图2的指示，查看LGC的版本并打开其安装目录。
     
     P1
-    ![Picture 1](/zh/assets/set-chinese-for-lgc/1.png)
+    ![Picture 1](/../zh/assets/set-chinese-for-lgc/1.png)
 
     P2
-    ![Picture 2](/zh/assets/set-chinese-for-lgc/2.png)
+    ![Picture 2](/../zh/assets/set-chinese-for-lgc/2.png)
 
 3. 检查LGC的版本是否与汉化包文件名中的版本相吻合。如果不吻合，请尝试升级LGC，或访问蓝奏云分享页面下载更新版本的LGC汉化包。
 
@@ -39,11 +39,11 @@ Lesta Games**不提供**Lesta Game Center（以下简称为LGC）中文语言，
 8. 根据图3的指示，将语言切换为中文。
 
     P3
-    ![Picture 3](/zh/assets/set-chinese-for-lgc/3.png)
+    ![Picture 3](/../zh/assets/set-chinese-for-lgc/3.png)
 
 9. 一切就绪！请注意：硬编码文本和新闻文本无法通过本地文件翻译，将仍然为俄语。
 
-    ![Showcase](/zh/assets/set-chinese-for-lgc/showcase.png)
+    ![Showcase](/../zh/assets/set-chinese-for-lgc/showcase.png)
 
 ## Q&A
 
